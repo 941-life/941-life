@@ -23,4 +23,4 @@
 # 📫
 
 - mail: truzww@gmail.com
-- LinkedIn: [이윤슬](https://www.linkedin.com/in/%EC%9C%A4%EC%8A%AC-%EC%9D%B4-619955301/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- LinkedIn: [이윤슬]([https://www.linkedin.com/in/%EC%9C%A4%EC%8A%AC-%EC%9D%B4-619955301/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/941life/))
