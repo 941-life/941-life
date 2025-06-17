@@ -2,27 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AEC2F0,100:F5F7FA&height=120&section=header"/>
 </p>
 <h1 align="center">Yunseul's Github</h1>
-<p align="center">Frontend Developer · AI Engineering Student · UX Builder</p>
-
 <p align="center">
-  <img src="https://render.gitanimals.org/farms/941-life" width="100%" alt="GitFarm" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3F3D56&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+Engineering+Student;Clean+UI+%26+Fast+UX" />
 </p>
-
----
 
 ## About
 
-- Studying Artificial Intelligence at Gachon University
-- Focused on building usable, scalable, and human-centered web applications
-- Experienced in full-cycle product development from planning to deployment
-- Especially interested in large language models, UI/UX systems, and real-time visualization
+AI major building human-centered web interfaces with a focus on HCI and real-time systems.
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,js,python,firebase,cpp,html,css,vite,redux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,python,firebase,cpp,html,css,vite,redux,flutter" alt="Tech Stack" />
 </div>
 
 ---
