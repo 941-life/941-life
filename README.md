@@ -15,7 +15,7 @@ AI major building human-centered web interfaces with a focus on HCI and real-tim
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,css,fastapi,docker,firebase,mongo,nodejs,cpp,flutter,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,css,fastapi,docker,nodejs,cpp,flutter,mysql,firebase,mongo" alt="Tech Stack" />
 </div>
 
 ---
