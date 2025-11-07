@@ -8,7 +8,7 @@
 
 ## About
 
-AI major building human-centered web interfaces with a focus on HCI and real-time systems.
+AI Systems Engineer / HCI
 
 ---
 
