@@ -3,19 +3,15 @@
 </p>
 <h1 align="center">Yunseul's Github</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3F3D56&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+Engineering+Student;Clean+UI+%26+Fast+UX" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3F3D56&center=true&vCenter=true&width=435&lines=AI+Systems+Engineer;HCI" />
 </p>
-
-## About
-
-AI Systems Engineer / HCI
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,css,fastapi,docker,cpp,flutter,mysql,firebase,mongo" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,css,fastapi,nodejs,docker,flutter,mysql,mongo,c,prometheus,linux" alt="Tech Stack" />
 </div>
 
 ---
